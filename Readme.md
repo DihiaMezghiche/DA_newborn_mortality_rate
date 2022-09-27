@@ -1,5 +1,5 @@
 # Newborn mortality rate
-This project is a data analysis project in which i will analyze 4 sets of data provided by [Gapminder world](https://www.gapminder.org/data/)
+This project is a data analysis project in which i will analyze 4 sets of data provided by [Gapminder world](https://www.gapminder.org/data/) to see if any of these 4 attributes affect the natal mortality rate during the periode of 2005 and 2015.
 
 ## Installation
 To execute this project you will need the following python librairies:
