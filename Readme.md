@@ -28,12 +28,12 @@ Through out this project i followed the following steps:
 4. Share your findings.
 
  ## Dataset sources
- **Data set 1 : births attended by skilled health staff percent of total**
+**Data set 1 : births attended by skilled health staff percent of total**
  * Description : a database that shows the percentage of births attended by skilled health personnel.
- **Data set 2 : females aged 15plus employment rate percen**
+**Data set 2 : females aged 15plus employment rate percen**
  * Description : Percentage of the female population, age group 15+, who were employed in the given year.
- **Data set 3 :  Maternal mortality ratio**
- **Data set 4 : females aged 15plus employment rate percen**
+**Data set 3 :  Maternal mortality ratio**
+**Data set 4 : females aged 15plus employment rate percen**
  * Description : Children who died in the first 28 days per 1000 live births.
  
   ## Data Wrangling
